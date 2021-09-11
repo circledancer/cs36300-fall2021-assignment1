@@ -140,9 +140,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\Desktop\Array.cpp" />
+    <ClCompile Include="..\..\..\Desktop\driver.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\Desktop\Array.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\Desktop\Array.inl" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

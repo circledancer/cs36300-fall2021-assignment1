@@ -18,10 +18,18 @@
     <ClCompile Include="..\..\..\Desktop\Array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\Desktop\driver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\Desktop\Array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\Desktop\Array.inl">
+      <Filter>Header Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
